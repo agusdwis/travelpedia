@@ -29,8 +29,8 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    "@nuxtjs/tailwindcss"
-    // "@nuxtjs/pwa"
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/pwa"
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -38,5 +38,13 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
-  ssr: true
+
+  pwa: {
+    manifest: {
+      name: "Travelpedia Online",
+      short_name: "TravelIn",
+      lang: "en",
+      useWebmanifestExtension: false
+    }
+  }
 };
