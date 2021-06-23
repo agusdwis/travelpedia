@@ -25,8 +25,8 @@ export default {
         author: "agusdwis"
       },
       manifest: {
-        name: "Travelpedia Online",
-        short_name: "Travelpedia",
+        name: "Travelpedia",
+        short_name: "TravelKuy",
         lang: "en",
         useWebmanifestExtension: false,
         description: "Travelpedia, Travel, Travel Indo, Travelin",
