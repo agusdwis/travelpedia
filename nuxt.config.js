@@ -28,7 +28,8 @@ export default {
         short_name: "Travelpedia",
         lang: "en",
         useWebmanifestExtension: false,
-        description: "Travelpedia, Travel, Travel Indo, Travelin"
+        description: "Travelpedia, Travel, Travel Indo, Travelin",
+        theme_color: "#FFFFFF"
       }
     }
   },
