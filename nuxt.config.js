@@ -14,24 +14,7 @@ export default {
         content: "Travelpedia, Travel, Travel Indo, Travelin"
       }
     ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
-    pwa: {
-      icon: {
-        purpose: "maskable"
-      },
-      meta: {
-        title: "Travelpedia",
-        author: "agusdwis"
-      },
-      manifest: {
-        // name: "Travelpedia Online",
-        // short_name: "TravelKuy",
-        // lang: "en",
-        // useWebmanifestExtension: false,
-        // description: "Travelpedia, Travel, Travel Indo, Travelin",
-        // theme_color: "#FFFFFF"
-      }
-    }
+    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
