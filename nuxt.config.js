@@ -12,8 +12,7 @@ export default {
         hid: "description",
         name: "description",
         content: "Travelpedia, Travel, Travel Indo, Travelin"
-      },
-      { name: "theme-color", content: "#FFFFFF" }
+      }
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     pwa: {
