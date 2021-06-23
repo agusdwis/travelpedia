@@ -24,12 +24,12 @@ export default {
         author: "agusdwis"
       },
       manifest: {
-        name: "Travelpedia Online",
-        short_name: "TravelKuy",
-        lang: "en",
-        useWebmanifestExtension: false,
-        description: "Travelpedia, Travel, Travel Indo, Travelin",
-        theme_color: "#FFFFFF"
+        // name: "Travelpedia Online",
+        // short_name: "TravelKuy",
+        // lang: "en",
+        // useWebmanifestExtension: false,
+        // description: "Travelpedia, Travel, Travel Indo, Travelin",
+        // theme_color: "#FFFFFF"
       }
     }
   },
