@@ -6,7 +6,7 @@
         travelpedia
       </h1>
       <div class="links">
-        <p>In the making</p>
+        <p>Loading</p>
       </div>
     </div>
   </div>
